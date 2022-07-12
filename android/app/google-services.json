@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "32784208627",
+    "firebase_url": "https://jaagran---the-awakening.firebaseio.com",
+    "project_id": "jaagran---the-awakening",
+    "storage_bucket": "jaagran---the-awakening.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32784208627:android:ad34fd4d07965e11899d86",
+        "android_client_info": {
+          "package_name": "com.swasthya.sethu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32784208627-o72cpka7f4gpvdg5likemlnqeiqphaa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2XsmBujbepSSkkRFCfDRL4Dlaaguqifg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32784208627-o72cpka7f4gpvdg5likemlnqeiqphaa0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32784208627-9tvticl6lme66du5jntk642ta33eja3s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swasthya.sethu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

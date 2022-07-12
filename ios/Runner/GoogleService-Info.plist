@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>32784208627-9tvticl6lme66du5jntk642ta33eja3s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.32784208627-9tvticl6lme66du5jntk642ta33eja3s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB5pkhz3R6syuaR_lCkr8mtpeNLWpuy8KY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>32784208627</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.swasthya.sethu</string>
+	<key>PROJECT_ID</key>
+	<string>jaagran---the-awakening</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jaagran---the-awakening.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:32784208627:ios:ef8297f319f88bbe899d86</string>
+	<key>DATABASE_URL</key>
+	<string>https://jaagran---the-awakening.firebaseio.com</string>
+</dict>
+</plist>
